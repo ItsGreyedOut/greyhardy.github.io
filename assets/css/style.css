@@ -19,8 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
-  background-size: cover;
+  background: linear-gradient(0deg, #1c1c1c60, #1c1c1c60), url("https://github.com/Zernach/zernach.github.io/blob/master/images/macOS-reduced-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2-2048x2048.png?raw=true") top right no-repeat;  background-size: cover;
   left: 0;
   right: 0;
   top: 0;

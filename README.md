@@ -1,12 +1,11 @@
 # Grey Hardy
 # Upcoming graduate of Georgia Tech Data Science and Analytics Boot Camp
-# 6/2021 - 12/2021
-# Portfoilo of work produced while taking the Georgia Tech Data Science and Analytics Boot Camp.
+6/2021 - 12/2021
+Portfoilo of work produced while taking the Georgia Tech Data Science and Analytics Boot Camp.
 
 Skills Gained:
 
-Web Technologies and Data
-Visualization
+Web Technologies and Data Visualization
 • HTML
 • CSS
 • Bootstrap
@@ -56,33 +55,26 @@ Computational Scientist
 Data Architect
 
 What I learned:
-Utilize statistical analysis to characterize and interpret novel datasets.
-Use advanced SQL and NoSQL techniques to combine multiple datasets into one so
-as to create even more impressive and comprehensive databases.  Create basic
-interactive websites and applications to show your work to the entire world.
-Work with and lead small-scale teams in order to create applications and visual d
-atasets.  Scrape information from web pages in order to collect data from a wide
-variety of online sources.  Communicate and glean new business insights using
-enterprise-grade tools like Tableau.  Build data-driven prediction algorithms
-using machine learning tools and techniques.  Work independently or in a group
-on complex data-mining projects.  Understand the basics of troubleshooting and
-enhancing legacy code. Use version-controlling software such as Git to collaborate
-on open-source software.  Employ statistical models to predict and forecast trends.
-Build VBA scripts in Excel to automate tedious manual processes Utilize real-world 
-data sources to showcase social, financial, and political phenomena.  Create Python-based
-scripts to automate the cleanup, restructuring, and rendering of large, heterogeneous 
-datasets.  Interact with RESTful APIs using Python.  Requests and JSON parsing techniques
-Create in-depth graphs, charts, and tables utilizing a wide-variety of data-driven
-programming languages and libraries.  Use ETL process (Extract, Transform, Load) to
-transform and consolidate data from multiple sources.  Use geographic data to create
-visually exciting, interactive, and informative maps.  Build custom interactive data 
-isualizations using JavaScript libraries. Write SQL commands to perform Create, Read, 
-Update, and Delete commands.  Over the course of 24 weeks, you’ll attend informative
-lectures, participate in a variety of individual and team exercises, and work 
-independently inside and outside of class time. Homework assignments provide an 
-opportunity to apply what you’ve learned and build on it. The goal is to give you a 
-comprehensive learning experience and true insight into a “day in the life” of a data 
-professional.  
+Utilize statistical analysis to characterize and interpret novel datasets.  Use advanced SQL and NoSQL techniques
+to combine multiple datasets into one so as to create even more impressive and comprehensive databases.  Create
+basic interactive websites and applications to show your work to the entire world.  Work with and lead 
+small-scale teams in order to create applications and visual datasets.  Scrape information from web pages in order
+to collect data from a wide variety of online sources.  Communicate and glean new business insights using
+enterprise-grade tools like Tableau.  Build data-driven prediction algorithms using machine learning tools and
+techniques.  Work independently or in a group on complex data-mining projects.  Understand the basics of 
+troubleshooting and enhancing legacy code. Use version-controlling software such as Git to collaborate
+on open-source software.  Employ statistical models to predict and forecast trends.  Build VBA scripts in Excel
+to automate tedious manual processes Utilize real-world data sources to showcase social, financial, and political
+phenomena.  Create Python-based scripts to automate the cleanup, restructuring, and rendering of large, heterogeneous 
+datasets.  Interact with RESTful APIs using Python.  Requests and JSON parsing techniques Create in-depth graphs, 
+charts, and tables utilizing a wide-variety of data-driven programming languages and libraries.  Use ETL process 
+(Extract, Transform, Load) to transform and consolidate data from multiple sources.  Use geographic data to create
+visually exciting, interactive, and informative maps.  Build custom interactive data isualizations using JavaScript 
+libraries. Write SQL commands to perform Create, Read, Update, and Delete commands.  Over the course of 24 weeks,
+you’ll attend informative lectures, participate in a variety of individual and team exercises, and work 
+independently inside and outside of class time. Homework assignments provide an opportunity to apply what you’ve
+learned and build on it. The goal is to give you a comprehensive learning experience and true insight into a 
+“day in the life” of a data professional.  
 
 DISCUSSION PROJECT WORK PORTFOLIO PROJECTS
 My portfolio signals to employers that I am ready for primetime! I built a
